@@ -1,0 +1,1 @@
+module.exports = 'SELECT COUNT(*) as count FROM {{table}}';
