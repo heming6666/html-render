@@ -31,3 +31,7 @@ node index.js
 - test                  为了查看生成的 HTML 的效果
   - index.js
 ```
+
+## 其他
+
+渲染 React 见 [ssr 分支](https://github.com/heming6666/html-render/tree/ssr).
